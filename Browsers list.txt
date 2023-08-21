@@ -1,0 +1,41 @@
+ "browserslist": {
+
+    "legacy": [
+
+      "last 2 Chrome versions",
+
+      "Safari >= 9",
+
+      "last 1 Samsung versions",
+
+      "IE 11",
+
+      "last 2 firefox versions",
+
+      "last 2 ChromeAndroid versions",
+
+      "last 1 Edge versions",
+
+      "last 2 iOS versions"
+
+    ],
+
+    "modern": [
+
+      "Chrome >= 61",
+
+      "Edge >= 16",
+
+      "Firefox >= 60",
+
+      "Safari >= 10.1",
+
+      "Opera >= 48"
+
+    ],
+
+    "ssr": [
+
+      "node 14"
+
+    ]
